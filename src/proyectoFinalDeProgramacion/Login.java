@@ -12,6 +12,7 @@ package proyectoFinalDeProgramacion;
  * -Utiliza una clase 'Utilidades', la cual tiene dos métodos get`s státicos: uno sirve
  * para leer enteros[Utilidades.leerInt()] y otra que sirve para leer datos del
  * tipo cadenas[Utilidades.leerString()].
+ * @version 
  * @author Anthony Ortiz Ramón.
  * @author José Romero.
  * @author Jenny Pereira.
